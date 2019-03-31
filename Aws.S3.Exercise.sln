@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aws.S3.Exercise", "Aws.S3.Exercise\Aws.S3.Exercise.csproj", "{FB4F1AC6-EC53-46C8-8369-152C7C0675AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB4F1AC6-EC53-46C8-8369-152C7C0675AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB4F1AC6-EC53-46C8-8369-152C7C0675AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB4F1AC6-EC53-46C8-8369-152C7C0675AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB4F1AC6-EC53-46C8-8369-152C7C0675AC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
